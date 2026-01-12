@@ -1,6 +1,13 @@
 pandas
-os
 numpy
 matplotlib
 seaborn
 plotly
+scikit-learn
+jupyter
+notebook
+ipython
+ipykernel
+plotly-express
+pdfkit
+python-dotenv
